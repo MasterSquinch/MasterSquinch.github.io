@@ -1,5 +1,3 @@
-________
-
 queer  
 autistic  
 artist  

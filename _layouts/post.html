@@ -22,7 +22,7 @@ layout: default
   </div>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {% include anchor_headings.html html=content anchorBody="#" %}
     {% include navlinks.html %}
   </div>
 

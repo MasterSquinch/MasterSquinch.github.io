@@ -10,7 +10,7 @@ image: img/photos/IMG_2443.png
 
 you know... when it rains, it pours.
 
-Those of you in the know already know about my housing situation, so I won't go into that, but suffice it to say, it's been *complicating* things. And since I needed some levity and social interaction in my life, I decided to attend an event with some comrades-- I made a bunch of chili (unfortunately I did in fact burn the chili keeping it warm on the camp stove...), helped set things up, and generally mingled. I'm not the most graceful navigator of social situation, but I feel I did alright. 
+Those of you in the know already know about my housing situation, so I won't go into that, but suffice it to say, it's been *complicating* things. And since I needed some levity and social interaction in my life, I decided to attend an event with some comrades-- I made a bunch of chili (unfortunately I did in fact burn the chili keeping it warm on the camp stove...), helped set things up, and generally mingled. I'm not the most graceful navigator of social situations, but I feel I did alright. 
 
 So picture this: nearly everyone is gone, and we're packing up. I move my vehicle from the far end of the lot to the gravel right next to all of our heavy materials, and load it. Everyone is saying their goodbyes, the sun is going down, I sit in my vehicle, insert the key, and...
 

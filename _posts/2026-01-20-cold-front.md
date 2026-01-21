@@ -2,7 +2,7 @@
 layout: post
 title: "cold front"
 description: "stay warm out there"
-tags: ttrpg; meta; politics
+tags: ttrpg meta politics
 image: img/photos/.png
 ---
 

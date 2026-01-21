@@ -2,7 +2,7 @@
 layout: post
 title: "solidarity forever"
 description: "for the union makes us strong"
-tags: meta
+tags: meta politics
 image: img/photos/IMG_2443.png
 ---
 

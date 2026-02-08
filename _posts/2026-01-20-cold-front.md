@@ -26,9 +26,7 @@ I've spent most of my time the past few days splitting wood in preparation for a
 
 I'm also behind on work for a fanzine for OVER//UNDER. Speaking of, y'all aren't going to believe this shit:
 
-OK, y’all ain't never gonna believe this shit
-
-So I was doing it on my phone— collaging with Library of Congress archives 
+So I was working on type on my phone— collaging from Library of Congress archives 
 
 PHONE DIES
 
